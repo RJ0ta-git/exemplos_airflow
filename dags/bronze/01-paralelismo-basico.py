@@ -1,3 +1,7 @@
+# Esta DAG demonstra como executar tarefas em paralelo no Apache Airflow. O paralelismo é fundamental para otimizar o tempo de execução de 
+# fluxos de trabalho, permitindo que tarefas independentes sejam executadas simultaneamente. Neste exemplo, teremos duas tarefas simples que 
+# rodam lado a lado, simulando operações independentes que não dependem uma da outra para iniciar.
+
 from airflow import DAG
 from airflow.operators.bash import BashOperator
 from datetime import datetime
