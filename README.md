@@ -15,7 +15,11 @@ Os exemplos estão organizados em uma sequência lógica de estudo, começando p
 
 Pré-requisitos para Uso:
 Para aproveitar ao máximo este repositório e executar as DAGs, você precisará de:
+
 ⦁	Docker e Docker Compose: O ambiente Airflow pode ser facilmente configurado usando o docker-compose.yaml incluído no repositório.
+
 ⦁	Conhecimento Básico de Python: As DAGs são escritas em Python, então uma familiaridade com a linguagem é essencial.
+
 ⦁	Ferramenta para Leitura de Código: Um IDE como VS Code ou PyCharm facilitará a exploração e compreensão dos exemplos.
+
 ⦁	Este material é ideal para estudantes, engenheiros de dados e qualquer profissional que deseje aprender ou aprimorar suas habilidades em Apache Airflow, com o diferencial de um conteúdo didático e totalmente em português.
